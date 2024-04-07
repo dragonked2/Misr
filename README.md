@@ -34,6 +34,9 @@ Misr is created by [Ali Essam](https://github.com/dragonked2), a passionate cybe
 2. Install dependencies:
    ```
    pip install -r requirements.txt
+   download https://github.com/projectdiscovery/httpx
+   download https://github.com/projectdiscovery/subfinder/
+   keep them in same directory of the tool
    ```
 
 3. Run the script:
