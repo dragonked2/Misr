@@ -1,4 +1,4 @@
-aa
+a
  Misr: The Ultimate Vulnerability Scanner
 
 ![Misr](https://github.com/dragonked2/Misr/assets/66541902/b83f3c98-1946-4d2d-86c7-da101a280000)
