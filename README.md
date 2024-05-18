@@ -1,5 +1,5 @@
 
- Misr: The Ultimate Vulnerability Scanner
+ Misr: The Ultimate Vulnerability Scannera
 Misr](https://github.com/dragonked2/Misr/assets/66541902/b83f3c98-1946-4d2d-86c7-da101a280000)
 
 Welcome to Misr, the ultimate tool for hunting down vulnerabilities in web applications! Whether you're a seasoned bug bounty hunter or just getting started in the world of cybersecurity, this script will help you identify potential vulnerabilities with ease.
